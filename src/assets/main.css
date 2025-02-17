@@ -1,0 +1,29 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root{
+  --main-bg-color:#1E2D3D;
+  --blue-color:#4D5BCE;
+  --green-color:#43D9AD;
+  --orenge-color:#E99287;
+  --dark-orenge:#FEA55F;
+  --fff-color:#FFFFFF;
+  --dark-color:#01080E;
+  --button-dark-color-sn:#1E2D3D;
+  --nav-font-color:#607B96;
+}
+
+body{
+  font-family: monospace;
+  background: var(--main-bg-color);
+}
+a{
+  text-decoration: none;
+}
+/* 
+#app{
+  min-height: 100vh;
+} */
